@@ -1,1 +1,1 @@
-# newslettermage
+# newsletterimage
